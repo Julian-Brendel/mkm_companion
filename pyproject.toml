@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "mkm_api"
+version = "0.1.0"
+description = ""
+authors = ["Julian-Brendel <julianbrendel99@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+mkmsdk = "^0.5.4"
+python-dotenv = "^0.14.0"
+pandas = "^1.1.1"
+dask = {extras = ["dataframe"], version = "^2.24.0"}
+
+[tool.poetry.dev-dependencies]
+ipykernel = "^5.3.4"
+jupyter = "^1.0.0"
+jupyterlab = "^2.2.0"
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"
