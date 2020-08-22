@@ -3,8 +3,9 @@
 ## Introduction
 
 Managing your growing mtg stock on [Cardmarket](https://www.cardmarket.com/en/Magic) can be
-tedious. Reacting to changes in the market is painfully slow, requiring manually updating
-prices across possibly multiple thousand articles.
+tedious.  
+Reacting to changes in the market can prove to be a painfully manual process when updating
+potential multiple thousand of articles.
 
 Fear no more, using the mkm companion makes updating your stock great again.
 
